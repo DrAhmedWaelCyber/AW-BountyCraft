@@ -49,7 +49,4 @@ python3 bountycraft.py
 ## ⚖️ Disclaimer
 
 > **Warning:** This tool is created for educational purposes and authorized security assessment/testing only. The author takes no responsibility for any misuse or damage caused by this program.
-
-```
-
 ```
