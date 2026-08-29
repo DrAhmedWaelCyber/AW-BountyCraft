@@ -20,9 +20,7 @@ Ensure you have Python 3 installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/DrAhmedWaelCyber/AW-BountyCraft.git](https://github.com/YOUR_USERNAME/AW-BountyCraft.git)
-   cd AW-BountyCraft
-
+   git clone https://github.com/DrAhmedWaelCyber/AW-BountyCraft.git
 ```
 
 2. **Run the script:**
