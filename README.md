@@ -1,8 +1,10 @@
 
+
 # 🎯 AW-BountyCraft
 
-**AW-BountyCraft** is a structured Bug Bounty & Recon methodology automation tool written in Python. It is designed to streamline penetration testing workflows by automatically setting up organized project directories, generating step-by-step methodology roadmaps, and providing pre-configured command outputs for domain target reconnaissance.
+**AW-BountyCraft** is a structured Bug Bounty & Recon methodology automation tool written in Python. It is designed to streamline penetration testing workflows by automatically setting up organized project directories, generating step-by-step methodology roadmaps, and providing pre-configured command outputs for domain target reconnaissance. 
 
+<img width="708" height="495" alt="AW" src="https://github.com/user-attachments/assets/751dbc71-cb18-422f-a568-25f1404c2d88" />
 ---
 
 ## ✨ Features
