@@ -40,7 +40,7 @@ python3 bountycraft.py
 Simply execute the main script and follow the interactive prompt to supply your target domain:
 
 ```bash
-python3 bountycraft.py -d target.com
+python3 bountycraft.py 
 
 ```
 
