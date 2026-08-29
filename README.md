@@ -1,4 +1,4 @@
-```
+
 # 🎯 AW-BountyCraft
 
 **AW-BountyCraft** is a structured Bug Bounty & Recon methodology automation tool written in Python. It is designed to streamline penetration testing workflows by automatically setting up organized project directories, generating step-by-step methodology roadmaps, and providing pre-configured command outputs for domain target reconnaissance.
@@ -17,14 +17,16 @@
 ## 🛠️ Prerequisites & Installation
 
 Ensure you have Python 3 installed on your machine.
-```
+
 1. **Clone the repository:**
-```bash
-git clone https://github.com/DrAhmedWaelCyber/AW-BountyCraft.git
+  ```
+ git clone https://github.com/DrAhmedWaelCyber/AW-BountyCraft.git
+ cd AW-BountyCraft
+```
 
 
-3. **Run the script:**
-```bash
+2. **Run the script:**
+```
 python3 bountycraft.py
 
 ```
@@ -37,7 +39,7 @@ python3 bountycraft.py
 
 Simply execute the main script and follow the interactive prompt to supply your target domain:
 
-```bash
+```
 python3 bountycraft.py 
 
 ```
@@ -48,7 +50,6 @@ python3 bountycraft.py
 
 > **Warning:** This tool is created for educational purposes and authorized security assessment/testing only. The author takes no responsibility for any misuse or damage caused by this program.
 
-
----
+```
 
 ```
