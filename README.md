@@ -28,7 +28,6 @@ Ensure you have Python 3 installed on your machine.
 2. **Run the script:**
 ```
 python3 bountycraft.py
-
 ```
 
 
@@ -41,7 +40,6 @@ Simply execute the main script and follow the interactive prompt to supply your 
 
 ```
 python3 bountycraft.py 
-
 ```
 
 ---
